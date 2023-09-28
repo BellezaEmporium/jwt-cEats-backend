@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcryptjs": "latest",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "nodemon": "latest",
+    "pug": "latest",
+    "save": "^2.5.0",
+    "tedious": "latest"
+  }
+}
